@@ -37,7 +37,7 @@ def decidePlayGame():
 
 def inspirationalQuote():
     greeting = "\nHere is your daily inspirational quote: \n"
-    quotes = ["Wira"
+    quotes = ["Wira1"
         , "Wira2"
         , "Wira3"
         , "Wira4"
